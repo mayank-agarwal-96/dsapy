@@ -11,6 +11,12 @@ class Tree(object):
     def getRoot(self):
         return self.root
 
+    def getLeft(self):
+    	return self.left
+
+    def getRight(self):
+    	return self.right
+
     def add(self, val):
         if(self.root == None):
             self.root = Node(val)
