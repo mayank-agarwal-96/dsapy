@@ -1,3 +1,5 @@
+# Binary search tree
+
 class Node(object):
     def __init__(self, val):
         self.left = None

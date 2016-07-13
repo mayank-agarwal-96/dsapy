@@ -1,3 +1,5 @@
+# Stack
+
 class Stack(object):
 
 	def __init__(self):
