@@ -1,3 +1,5 @@
+Time complexity : log(y) 
+
 def power(x,y,p):
 	ans = 1
 	
