@@ -1,3 +1,5 @@
+Time Complexity: O(nlogn)
+
 import random
 
 def partition(arr,left,right):
